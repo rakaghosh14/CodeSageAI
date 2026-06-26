@@ -68,10 +68,6 @@ git clone https://github.com/rakaghosh14/CodeSageAI.git
 3. Sync Gradle.
 4. Run the application on an emulator or Android device.
 
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
-
 ## 📄 License
 
 This project is intended for educational and learning purposes.
