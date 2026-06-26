@@ -1,19 +1,19 @@
-# CodeSageAI 🚀
+# CodeSageAI 
 
 An AI-powered Android application that helps developers write, understand, review, and improve code using intelligent assistance. Built with modern Android development tools and clean architecture principles, CodeSageAI provides a seamless coding companion directly on your mobile device.
 
-## ✨ Features
+##  Features
 
-* 🤖 AI-powered code generation
-* 🔍 Intelligent code review and suggestions
-* 📝 Syntax highlighting for multiple programming languages
-* 💬 Interactive AI chat assistant
-* 📂 Code snippet management
-* 📚 Conversation history
-* ⚡ Fast and responsive Jetpack Compose UI
-* 🌙 Modern Material Design interface
+*  AI-powered code generation
+*  Intelligent code review and suggestions
+*  Syntax highlighting for multiple programming languages
+*  Interactive AI chat assistant
+*  Code snippet management
+*  Conversation history
+*  Fast and responsive Jetpack Compose UI
+*  Modern Material Design interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Kotlin
 * **UI:** Jetpack Compose
@@ -24,7 +24,7 @@ An AI-powered Android application that helps developers write, understand, revie
 * **API Integration:** Google Gemini API & Judge0 API
 * **Build System:** Gradle (Kotlin DSL)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 CodeSageAI
@@ -49,7 +49,7 @@ CodeSageAI
 └── build.gradle.kts
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ git clone https://github.com/rakaghosh14/CodeSageAI.git
 
 This project is intended for educational and learning purposes.
 
-## 👨‍💻 Author
+##  Author
 
 **Raka Ghosh**
 
